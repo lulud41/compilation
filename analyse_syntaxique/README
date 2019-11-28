@@ -1,0 +1,4 @@
+Analyseur syntaxique ascendant : LL(1) implémenté en C, en utilisant l'analyseur
+lexical "lex".
+
+Réalisé en semetre d'échange au mexique, donc certaines parties sont en espagnol
